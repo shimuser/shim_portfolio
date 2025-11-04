@@ -39,7 +39,7 @@ export function Hero() {
     greeting: "안녕하세요,",
     name: "심민근",
     title: "단국대 학생입니다",
-    description: "우애애애애애옹",
+    description: "404 서버 또 터지면 안되는 레후",
     profileImage: "/uploads/hero-profile-1761477237286.png",
     backgroundImage: "",
     backgroundVideo: "",
