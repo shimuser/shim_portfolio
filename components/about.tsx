@@ -99,10 +99,10 @@ export function About() {
     title: "소개",
     subtitle: "당신의 전문성과 열정을 소개해주세요.",
     background: {"image":"","video":"","color":"","opacity":0.1},
-    experienceCards: [{"icon":"briefcase","title":"회사명","period":"2020 - 현재","description":"직무 및 역할"},{"icon":"graduation","title":"단국대학교","period":"2021-2026","description":"부동산학 전공 도시계획학 복수전공"},{"icon":"award","title":"자격증/수상","period":"2021","description":"설명을 입력하세요"}],
-    skills: [{"icon":"code","title":"프론트엔드 개발","description":"React, TypeScript, Next.js를 활용한 모던 웹 개발"},{"icon":"database","title":"백엔드 개발","description":"Node.js, Python, 데이터베이스 설계 및 구현"},{"icon":"palette","title":"UI/UX 디자인","description":"사용자 중심의 인터페이스 디자인"},{"icon":"music","title":"신창섭","description":"수정 해줬잖아"},{"icon":"star","title":"민택팝","description":"무적의 중간업자"}],
+    experienceCards: [{"icon":"graduation","title":"단국대학교","period":"2021.03-2026.02","description":"부동산학 전공 도시계획학 복수전공"},{"icon":"award","title":"단국대학교","period":"2021-2026","description":"Opic (IH)"},{"icon":"building","title":"창업","period":"2023~","description":"심HC"},{"icon":"user","title":"경험","period":"2022","description":"지역 당협 대학생위원장"},{"icon":"book","title":"어학연수","period":"2025","description":"토론토대학"},{"icon":"book","title":"학술동아리","period":"2022","description":"URID"}],
+    skills: [{"icon":"rocket","title":"실행력","description":"스킬 설명"},{"icon":"code","title":"프로그램 역량","description":"스킬 설명"},{"icon":"barChart","title":"데이터 분석","description":"스킬 설명"},{"icon":"users","title":"팀워크","description":"스킬 설명"},{"icon":"globe","title":"언어","description":"스킬 설명"},{"icon":"edit","title":"경험","description":"스킬 설명"}],
     storyTitle: "나의 이야기",
-    story: ["저는 기술을 통해 사람들의 삶을 더 편리하고 의미 있게 만드는 일에 열정을 가지고 있습니다.","다양한 프로젝트를 통해 문제 해결 능력과 창의적인 사고를 키워왔으며, 팀원들과의 협업을 통해 함께 성장하는 가치를 배웠습니다.","앞으로도 지속적인 학습과 도전을 통해 더 나은 개발자가 되기 위해 노력하겠습니다."],
+    story: ["저는 기술을 통해 사람들의 삶을 더 편리하고 의미 있게 만드는 일에 열정을 가지고 있습니다.","다양한 프로젝트를 통해 문제 해결 능력과 창의적인 사고를 키워왔으며, 팀원들과의 협업을 통해 함께 성장하는 가치를 배웠습니다.","앞으로도 지속적인 학습과 도전을 통해 더 나은 개발자가 되기 위해 노력하겠습니다.","새로운 문단"],
     storyImage: "",
     hobbies: ["📚 독서","☕ 카페 투어","🎨 전시회 관람","✈️ 여행"]
   }

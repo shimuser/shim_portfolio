@@ -40,7 +40,7 @@ export function Hero() {
     name: "심민근",
     title: "단국대 돈통입니다",
     description: "404 서버 또 터지면 안되는 레후",
-    profileImage: "/uploads/hero-profile-1761477237286.png",
+    profileImage: "/uploads/hero-profile-1764291435167.png",
     backgroundImage: "",
     backgroundVideo: "",
     backgroundOpacity: 0.1,

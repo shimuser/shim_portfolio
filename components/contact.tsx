@@ -34,15 +34,15 @@ export function Contact() {
   
   // 기본 데이터
   const defaultInfo = {
-    name: "당신의 이름",
-    title: "직책/직무",
+    name: "심민근",
+    title: "-",
     company: "",
-    experience: "3년 경력",
-    phone: "010-0000-0000",
-    email: "your-email@example.com",
+    experience: "-",
+    phone: "010-4335-6337",
+    email: "smkeyelove@gmail.com",
     website: "",
-    location: "당신의 위치",
-    workTime: "평일 09:00 - 18:00",
+    location: "-",
+    workTime: "-",
     responseTime: "24시간 이내 응답",
     sectionTitle: "연락처",
     sectionSubtitle: "프로젝트 문의나 협업 제안을 기다리고 있습니다. 편하신 방법으로 연락주세요!",
