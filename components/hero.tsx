@@ -38,8 +38,8 @@ export function Hero() {
   const defaultInfo = {
     greeting: "안녕하세요,",
     name: "심민근",
-    title: "단국대 돈통입니다",
-    description: "404 서버 또 터지면 안되는 레후",
+    title: "단국대학교 도시계획 부동산학부 전공자입니다",
+    description: "지속적인 성장을 통해 회사에 빠르게 적응하고 필요로 하는 인재가 되겠습니다.",
     profileImage: "/uploads/hero-profile-1764291435167.png",
     backgroundImage: "",
     backgroundVideo: "",

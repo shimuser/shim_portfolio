@@ -39,9 +39,9 @@ export function Contact() {
     company: "",
     experience: "-",
     phone: "010-4335-6337",
-    email: "smkeyelove@gmail.com",
+    email: "smkeyelove@dankook.ac.kr",
     website: "",
-    location: "-",
+    location: "과천시, 화성시",
     workTime: "-",
     responseTime: "24시간 이내 응답",
     sectionTitle: "연락처",
@@ -56,7 +56,13 @@ export function Contact() {
   }
   
   // 소셜 링크 기본값 (배열 형태로 변경)
-  const defaultSocialLinks: { name: string; icon: string; url: string }[] = []
+  const defaultSocialLinks: { name: string; icon: string; url: string }[] = [
+    {
+      "name": "새 링크",
+      "icon": "globe",
+      "url": "SNS 안한다"
+    }
+  ]
   
   const [contactInfo, setContactInfo] = useState(defaultInfo)
   const [socialLinks, setSocialLinks] = useState(defaultSocialLinks)
